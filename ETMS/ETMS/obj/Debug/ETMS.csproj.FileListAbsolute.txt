@@ -1,0 +1,40 @@
+c:\users\user\documents\visual studio 2015\Projects\ETMS\ETMS\bin\roslyn\csc.exe
+c:\users\user\documents\visual studio 2015\Projects\ETMS\ETMS\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+c:\users\user\documents\visual studio 2015\Projects\ETMS\ETMS\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\users\user\documents\visual studio 2015\Projects\ETMS\ETMS\bin\roslyn\Microsoft.CodeAnalysis.dll
+c:\users\user\documents\visual studio 2015\Projects\ETMS\ETMS\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\users\user\documents\visual studio 2015\Projects\ETMS\ETMS\bin\roslyn\Microsoft.CSharp.Core.targets
+c:\users\user\documents\visual studio 2015\Projects\ETMS\ETMS\bin\roslyn\Microsoft.VisualBasic.Core.targets
+c:\users\user\documents\visual studio 2015\Projects\ETMS\ETMS\bin\roslyn\System.Collections.Immutable.dll
+c:\users\user\documents\visual studio 2015\Projects\ETMS\ETMS\bin\roslyn\System.Reflection.Metadata.dll
+c:\users\user\documents\visual studio 2015\Projects\ETMS\ETMS\bin\roslyn\vbc.exe
+c:\users\user\documents\visual studio 2015\Projects\ETMS\ETMS\bin\roslyn\VBCSCompiler.exe
+c:\users\user\documents\visual studio 2015\Projects\ETMS\ETMS\bin\roslyn\VBCSCompiler.exe.config
+c:\users\user\documents\visual studio 2015\Projects\ETMS\ETMS\bin\ETMS.dll.config
+c:\users\user\documents\visual studio 2015\Projects\ETMS\ETMS\bin\ETMS.dll
+c:\users\user\documents\visual studio 2015\Projects\ETMS\ETMS\bin\ETMS.pdb
+c:\users\user\documents\visual studio 2015\Projects\ETMS\ETMS\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\user\documents\visual studio 2015\Projects\ETMS\ETMS\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\user\documents\visual studio 2015\Projects\ETMS\ETMS\obj\Debug\ETMS.csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2015\Projects\ETMS\ETMS\obj\Debug\ETMS.dll
+c:\users\user\documents\visual studio 2015\Projects\ETMS\ETMS\obj\Debug\ETMS.pdb
+D:\mini project\ETMS\ETMS\bin\roslyn\csc.exe
+D:\mini project\ETMS\ETMS\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\mini project\ETMS\ETMS\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\mini project\ETMS\ETMS\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\mini project\ETMS\ETMS\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\mini project\ETMS\ETMS\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\mini project\ETMS\ETMS\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\mini project\ETMS\ETMS\bin\roslyn\System.Collections.Immutable.dll
+D:\mini project\ETMS\ETMS\bin\roslyn\System.Reflection.Metadata.dll
+D:\mini project\ETMS\ETMS\bin\roslyn\vbc.exe
+D:\mini project\ETMS\ETMS\bin\roslyn\VBCSCompiler.exe
+D:\mini project\ETMS\ETMS\bin\roslyn\VBCSCompiler.exe.config
+D:\mini project\ETMS\ETMS\bin\ETMS.dll.config
+D:\mini project\ETMS\ETMS\bin\ETMS.dll
+D:\mini project\ETMS\ETMS\bin\ETMS.pdb
+D:\mini project\ETMS\ETMS\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\mini project\ETMS\ETMS\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\mini project\ETMS\ETMS\obj\Debug\ETMS.csprojResolveAssemblyReference.cache
+D:\mini project\ETMS\ETMS\obj\Debug\ETMS.dll
+D:\mini project\ETMS\ETMS\obj\Debug\ETMS.pdb

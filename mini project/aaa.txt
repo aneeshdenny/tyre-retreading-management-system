@@ -1,0 +1,7 @@
+•	Admin
+The administrator of this company can access every process of this company .The administrator of  this company can add the details of staffs, tread type, tyre type etc. The staffs can add the details of customer, sub patterns, retread sales etc. The admin is the allrounder of the company. He can add the staffs to company and also can add their salary details.
+The admin assign the staffs and the staffs uses their username and password to enter the project and they are restricted to access only few process in the company.
+•	Staff
+The Staff can record the details of repair patches, patterns, customer details etc to the system . He/she also can add there details and enquires. Currently the customer, staffs, patches and other details are recorded manually, which is being ectified in the proposed system. Staff can also view customers, update the billing status etc.
+•	Customer
+The customer can select one of the retreading method and can book the order. The payment by the customer is made in two steps first as when the customer comes with the tyre for retreading they are allowed to pay the advance amount and the bill is generated as a report and as when the customer comes for the final sale he pays the remaining amount and for this the final bill is generated as report.
